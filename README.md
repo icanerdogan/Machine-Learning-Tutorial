@@ -5,7 +5,7 @@
 
 <h3>Regresyon / Regression</h3>
 <ul>
-    <li><a href = "Regresyon/VeriDuzenleneme.ipynb">Veri Duzenleme / Data Editing</a></li>
+    <li><a href = "Regresyon/VeriDuzenleme.ipynb">Veri Duzenleme / Data Editing</a></li>
     <li><a href = "Regresyon/LinearRegression.ipynb">Lineer Regresyon / Linear Regression</a></li>
     <li><a href = "Regresyon/MultipleLinearRegression.ipynb">Çoklu-Lineer Regresyon / Multiple-Linear Regression</a></li>
     <li><a href = "Regresyon/PolynomialRegression.ipynb">Polinomal Regresyon / Polinomial Regression</a></li>
