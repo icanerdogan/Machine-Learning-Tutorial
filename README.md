@@ -5,13 +5,13 @@
 
 <h3>Regresyon / Regression</h3>
 <ul>
-    <li><a href = "Regresyon/VeriDuzenleme.ipynb">Veri Duzenleme / Data Editing</a></li>
-    <li><a href = "Regresyon/LinearRegression.ipynb">Lineer Regresyon / Linear Regression</a></li>
-    <li><a href = "Regresyon/MultipleLinearRegression.ipynb">Çoklu-Lineer Regresyon / Multiple-Linear Regression</a></li>
-    <li><a href = "Regresyon/PolynomialRegression.ipynb">Polinomal Regresyon / Polinomial Regression</a></li>
-    <li><a href = "Regresyon/Support Vector Regression-SVR.ipynb">Destek Vektör Regresyonu / Support Vector Regression</a></li>
-    <li><a href = "Regresyon/DecisionTreeRegressor.ipynb">Karar Ağacı Regresyonu / Decision Tree Regression</a></li>
-    <li><a href = "Regresyon/RandomForestRegressor.ipynb">Rassal Orman Regresyonu / Random Forest Regression</a></li>
+    <li><a href = "Regresyon/VeriDuzenleme.ipynb">Veri Duzenleme / Data Editing</a><a href = "https://www.youtube.com/watch?v=yoxWFiErqxY&list=PLKZuE7QvI1_lIMcxTxVIM23TodBg-iV3a&index=1"> (Youtube Video)</a></li>
+    <li><a href = "Regresyon/LinearRegression.ipynb">Lineer Regresyon / Linear Regression</a> <a href = "https://www.youtube.com/watch?v=KuJnewmiDOc&list=PLKZuE7QvI1_lIMcxTxVIM23TodBg-iV3a&index=2"> (Youtube Video)</a> </li>
+    <li><a href = "Regresyon/MultipleLinearRegression.ipynb">Çoklu-Lineer Regresyon / Multiple-Linear Regression</a> <a href = "https://www.youtube.com/watch?v=B8DKoiPlcoY&list=PLKZuE7QvI1_lIMcxTxVIM23TodBg-iV3a&index=3"> (Youtube Video)</a> </li>
+    <li><a href = "Regresyon/PolynomialRegression.ipynb">Polinomal Regresyon / Polinomial Regression</a> <a href = "https://www.youtube.com/watch?v=G5XTMLDEH20&list=PLKZuE7QvI1_lIMcxTxVIM23TodBg-iV3a&index=4"> (Youtube Video)</a> </li>
+    <li><a href = "Regresyon/Support Vector Regression-SVR.ipynb">Destek Vektör Regresyonu / Support Vector Regression</a> <a href = "https://www.youtube.com/watch?v=fOR8pdl9jic&list=PLKZuE7QvI1_lIMcxTxVIM23TodBg-iV3a&index=5"> (Youtube Video)</a> </li>
+    <li><a href = "Regresyon/DecisionTreeRegressor.ipynb">Karar Ağacı Regresyonu / Decision Tree Regression</a> <a href = "https://www.youtube.com/watch?v=h6thGm28kaE&list=PLKZuE7QvI1_lIMcxTxVIM23TodBg-iV3a&index=6"> (Youtube Video)</a> </li>
+    <li><a href = "Regresyon/RandomForestRegressor.ipynb">Rassal Orman Regresyonu / Random Forest Regression</a> <a href = "https://www.youtube.com/watch?v=UR4bFBZF4g4&list=PLKZuE7QvI1_lIMcxTxVIM23TodBg-iV3a&index=7"> (Youtube Video)</a> </li>
 </ul>
 
 <h3>Sınıflandırma / Classification</h3>
